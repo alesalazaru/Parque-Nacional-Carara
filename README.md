@@ -12,3 +12,10 @@ Fuente: Elaboración propia.
 -La palabrara _Carara_  en lengua indígena Huetar significa “Río de lagartos”.  
 -Primer parque nacional en contar con un sendero de acceso universal.  
 -Único bosque de transición del Pacífico Central, convergen especies propias de los bosques seco y húmedo.  
+
+### Senderos  
+1.*Sendero de Acceso Universal*: **1.2 km** de recorrido, cuenta con 9 bahias de descanso, sistema de agua potable en todo el trayecto y una batería sanitaria adaptada según los requerimientos de la ley 7600.   
+2.*Sendero Araceas*: Se caracteriza por ser sendero circular de aproximadamente **1200** metros de largo.  
+3.*Sendero Laguna Meándrica*: sendero lineal un poco más largo de **2000** metros. Su nombre se relaciona al meandro formado en el río Tárcoles con una laguna que se forma en ese sector de aproximadamente 600 metros de longitud y 40 metros de ancho.   
+4.*Sendero Quebrada Bonita*: **1300** metros, su principal actractivo es la quebrada que le da el nombre a el sendero.  
+5.*Sendero Encuentro de Ecosistemas*: es un sendero lineal de **650** metros que conecta sendero Quebrada Bonita y el Sendero de Acceso universal.   
