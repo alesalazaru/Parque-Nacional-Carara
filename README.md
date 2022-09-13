@@ -44,10 +44,11 @@ Los incendios forestales, [la cacería furtiva](http://www.pequenasdonacionescr.
 
 #### Galería
 <img src="20220802_071307.jpg" width="200" height="300"> <img src="IMG-20220807-WA0023.jpg" width="200" height="300"> <img src="20220805_095629.jpg" width="200" height="300"> <img src="20220802_061055.jpg" width="200" height="300">  
-<img src="20220804_064443.jpg" width="200" height="300"> <img src="20220805_121146.jpg" width="200" height="300"> <img src="20220806_054752.jpg" width="200" height="300"> <img src="20220806_055641.jpg" width="200" height="300">
+<img src="20220804_064443.jpg" width="200" height="300"> <img src="20220805_121146.jpg" width="200" height="300"> <img src="20220806_054752.jpg" width="200" height="300"> <img src="20220806_055641.jpg" width="200" height="300">  
+Fuente: Elaboración propia. 
  
-### Referencias
+### Más Información
  [SINAC](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)  
- [Más información](https://areasyparques.com/areasprotegidas/parque-nacional-carara/)  
- [Más información](https://costa-rica-guide.com/nature/national-parks/carara/)  
+ [Áreas y parques](https://areasyparques.com/areasprotegidas/parque-nacional-carara/)  
+ [Costa Rica-guide](https://costa-rica-guide.com/nature/national-parks/carara/)  
 
