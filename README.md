@@ -12,6 +12,11 @@ Fuente: Elaboración propia.
 -La palabrara _Carara_  en lengua indígena Huetar significa “Río de lagartos”.  
 -Primer parque nacional en contar con un sendero de acceso universal.  
 -Único bosque de transición del Pacífico Central, convergen especies propias de los bosques seco y húmedo.  
+-Es uno de los principales sitios en el país para la observación de aves o birdwatching.
+
+#### **Horario**
+De mayo a noviembre, todos los días de 8 am a 4 pm.
+De diciembre a abril, todos los días de 7 am a 4 pm
 
 ### Senderos  
 1.*Sendero de Acceso Universal*: **1.2 km** de recorrido, cuenta con 9 bahias de descanso, sistema de agua potable en todo el trayecto y una batería sanitaria adaptada según los requerimientos de la ley 7600.   
@@ -37,10 +42,12 @@ El Parque cuenta con numerosos vestigios de ocupaciones indígenas precolombinos
 Los incendios forestales, [la cacería furtiva](http://www.pequenasdonacionescr.org/sites/default/files/documentos/informempd-analisis_de_la_caceria_en_carara-agosto2013.pdf)
  y la limitación en cuanto a recursos financieros y humanos para hacer frente a la creciente demanda turística por los atractivos que protege el parque, son los principales problemas que se enfrentan. 
 
-#### Galeria
+#### Galería
 <img src="20220802_071307.jpg" width="200" height="300"> <img src="IMG-20220807-WA0023.jpg" width="200" height="300"> <img src="20220805_095629.jpg" width="200" height="300"> <img src="20220802_061055.jpg" width="200" height="300">  
 <img src="20220804_064443.jpg" width="200" height="300"> <img src="20220805_121146.jpg" width="200" height="300"> <img src="20220806_054752.jpg" width="200" height="300"> <img src="20220806_055641.jpg" width="200" height="300">
  
- 
- [Más información](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)
+### Referencias
+ [SINAC](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)
+ [Más información](https://areasyparques.com/areasprotegidas/parque-nacional-carara/)
+ [Más información](https://costa-rica-guide.com/nature/national-parks/carara/)
 
