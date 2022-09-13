@@ -38,11 +38,8 @@ Los incendios forestales, [la cacería furtiva](http://www.pequenasdonacionescr.
  y la limitación en cuanto a recursos financieros y humanos para hacer frente a la creciente demanda turística por los atractivos que protege el parque, son los principales problemas que se enfrentan. 
 
 #### Galeria
-<img src="20220802_071307.jpg" width="200" height="300">  
-<img src="IMG-20220807-WA0023.jpg" width="200" height="300">  
-<img src="20220805_095629.jpg" width="200" height="300">  
-<img src="20220802_061055.jpg" width="200" height="300">  
-<img src="20220804_064443.jpg" width="200" height="300">  
+<img src="20220802_071307.jpg" width="200" height="300"> <img src="IMG-20220807-WA0023.jpg" width="200" height="300"> <img src="20220805_095629.jpg" width="200" height="300">  
+<img src="20220802_061055.jpg" width="200" height="300"> <img src="20220804_064443.jpg" width="200" height="300">  
  
  
  [Más información](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)
