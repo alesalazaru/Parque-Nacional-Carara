@@ -15,7 +15,7 @@ Fuente: Elaboración propia.
 -Es uno de los principales sitios en el país para la observación de aves o birdwatching.
 
 #### **Horario**
-De mayo a noviembre, todos los días de 8 am a 4 pm.
+De mayo a noviembre, todos los días de 8 am a 4 pm.  
 De diciembre a abril, todos los días de 7 am a 4 pm
 
 ### Senderos  
@@ -47,7 +47,7 @@ Los incendios forestales, [la cacería furtiva](http://www.pequenasdonacionescr.
 <img src="20220804_064443.jpg" width="200" height="300"> <img src="20220805_121146.jpg" width="200" height="300"> <img src="20220806_054752.jpg" width="200" height="300"> <img src="20220806_055641.jpg" width="200" height="300">
  
 ### Referencias
- [SINAC](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)
- [Más información](https://areasyparques.com/areasprotegidas/parque-nacional-carara/)
- [Más información](https://costa-rica-guide.com/nature/national-parks/carara/)
+ [SINAC](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)  
+ [Más información](https://areasyparques.com/areasprotegidas/parque-nacional-carara/)  
+ [Más información](https://costa-rica-guide.com/nature/national-parks/carara/)  
 
