@@ -39,7 +39,7 @@ Los incendios forestales, [la cacería furtiva](http://www.pequenasdonacionescr.
 
 #### Galeria
 <img src="20220802_071307.jpg" width="200" height="300"> <img src="IMG-20220807-WA0023.jpg" width="200" height="300"> <img src="20220805_095629.jpg" width="200" height="300"> <img src="20220802_061055.jpg" width="200" height="300">  
-<img src="20220804_064443.jpg" width="200" height="300"> <img src="20220805_121146.jpg" width="200" height="300"> <img src="20220806_054752.jpg" width="200" height="300">
+<img src="20220804_064443.jpg" width="200" height="300"> <img src="20220805_121146.jpg" width="200" height="300"> <img src="20220806_054752.jpg" width="200" height="300"> <img src="20220806_055641.jpg" width="200" height="300">
  
  
  [Más información](https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx)
