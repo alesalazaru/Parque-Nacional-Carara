@@ -16,6 +16,24 @@ Fuente: Elaboración propia.
 ### Senderos  
 1.*Sendero de Acceso Universal*: **1.2 km** de recorrido, cuenta con 9 bahias de descanso, sistema de agua potable en todo el trayecto y una batería sanitaria adaptada según los requerimientos de la ley 7600.   
 2.*Sendero Araceas*: Se caracteriza por ser sendero circular de aproximadamente **1200** metros de largo.  
-3.*Sendero Laguna Meándrica*: sendero lineal un poco más largo de **2000** metros. Su nombre se relaciona al meandro formado en el río Tárcoles con una laguna que se forma en ese sector de aproximadamente 600 metros de longitud y 40 metros de ancho.   
+3.*Sendero Laguna Meándrica*: Sendero lineal un poco más largo de **2000** metros. Su nombre se relaciona al meandro formado en el río Tárcoles con una laguna que se forma en ese sector de aproximadamente 600 metros de longitud y 40 metros de ancho.   
 4.*Sendero Quebrada Bonita*: **1300** metros, su principal actractivo es la quebrada que le da el nombre a el sendero.  
-5.*Sendero Encuentro de Ecosistemas*: es un sendero lineal de **650** metros que conecta sendero Quebrada Bonita y el Sendero de Acceso universal.   
+5.*Sendero Encuentro de Ecosistemas*: Es un sendero lineal de **650** metros que conecta sendero Quebrada Bonita y el Sendero de Acceso universal.   
+
+#### Flora y fauna:
+Según datos científicos, presenta los siguientes registros:
+• 480 especies de plantas entre árboles y arbustos, siendo 14 especies endémicas y 29 especies consideradas raras y endémicas.  
+• 124 especies de reptiles, es decir el 53% de las especies de reptiles en Costa Rica (234).  
+• 112 especies de mamíferos, siendo el 47.8% del total de estas especies en el país (237).  
+• 62 especies de anfibios, es decir el 32.8% de las 189 especies de anfibios de Costa Rica.  
+• 420 especies de aves, 47% de las 893 especies reportadas en el país, considerado como uno de los sitios más importantes en CR para la observación de aves en su estado natural.  
+
+#### Arqueología
+
+El Parque cuenta con numerosos vestigios de ocupaciones indígenas precolombinos. Los estudios arqueológicos realizados han permitido la ubicación hasta el momento de quince sitios arqueológicos que corresponden a dos épocas de ocupación: La Fase Pavas (300 años a.C. – 300 años d.C.) y la Fase Cartago (800 años – 1500 años d.C.), con agricultura como base de subsistencia( [Sitio Arqueológico Carara](http://origenes.museocostarica.go.cr/detalleBusqueda.aspx?id_sitio=8217) ).
+ 
+#### Amenazas
+
+Los incendios forestales, [la cacería furtiva](http://www.pequenasdonacionescr.org/sites/default/files/documentos/informempd-analisis_de_la_caceria_en_carara-agosto2013.pdf)
+ y la limitación en cuanto a recursos financieros y humanos para hacer frente a la creciente demanda turística por los atractivos que protege el parque, son los principales problemas que se enfrentan. 
+
